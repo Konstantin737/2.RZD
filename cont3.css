@@ -1,0 +1,19 @@
+.cont3 {
+  display: inline-flex;
+  vertical-align: top;
+  background-color: yellow;
+  width: 1450px;
+  height: 96px;
+  margin: 10px 25px; }
+
+.cont3-1 {
+  background: url(image/footer.png);
+  width: 1500px;
+  height: 96px; }
+
+.cont3-2 {
+  background: url(image/footer_curve.gif);
+  width: 325px;
+  height: 96px; }
+
+/*# sourceMappingURL=cont3.css.map */

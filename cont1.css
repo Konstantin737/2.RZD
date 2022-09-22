@@ -1,0 +1,291 @@
+span {
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #5e5e5e;
+  background: transparent;
+  -moz-user-select: -moz-none;
+  -o-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  user-select: none; }
+
+.span1 {
+  font-size: 18px;
+  color: black;
+  margin-top: 10px;
+  margin-left: 10px;
+  -moz-user-select: -moz-none;
+  -o-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  user-select: none; }
+
+.dop {
+  font-size: 16px;
+  color: red;
+  margin-top: 10px;
+  margin-left: 46px;
+  -moz-user-select: -moz-none;
+  -o-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  user-select: none; }
+
+.dop2 {
+  display: block;
+  font-size: 12px;
+  margin-left: 0px;
+  margin-top: 10px;
+  -moz-user-select: -moz-none;
+  -o-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  user-select: none; }
+
+.mylist1 {
+  list-style-image: url("image/list_bullet.png");
+  margin-left: 30px;
+  margin-top: 10px;
+  -moz-user-select: -moz-none;
+  -o-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  user-select: none; }
+
+.a {
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: underline;
+  color: black;
+  -moz-user-select: -moz-none;
+  -o-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  user-select: none; }
+
+.a2 {
+  margin: 10px;
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: underline;
+  color: #5e5e5e;
+  -moz-user-select: -moz-none;
+  -o-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  user-select: none; }
+
+li {
+  margin-top: 15px; }
+
+.cont1 {
+  position: relative;
+  width: 1450px;
+  height: 140px;
+  background-color: white;
+  margin: 10px auto; }
+
+.podcont1 {
+  position: absolute;
+  width: 325px;
+  height: 75px;
+  top: 30px;
+  left: 10px;
+  background-image: url(image/logo.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  cursor: pointer; }
+
+.podcont2 {
+  position: absolute;
+  width: 815px;
+  height: 120px;
+  top: 10px;
+  right: 10px;
+  background-color: white; }
+
+.blok1 {
+  position: absolute;
+  width: 100%;
+  height: 30px;
+  top: 10px;
+  background-color: white; }
+
+.blok11, .blok12, .blok13, .blok14, .blok15, .blok16, .blok17 {
+  display: inline-block;
+  vertical-align: top;
+  position: relative;
+  margin: 5px 15px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  cursor: pointer; }
+
+.blok11 {
+  height: 20px;
+  width: 20px;
+  background-image: url(image/tel.png); }
+
+.blok12 {
+  height: 20px;
+  width: 20px;
+  background-image: url(image/krest.png); }
+
+.blok13 {
+  height: 20px;
+  width: 20px;
+  background-image: url(image/house.png); }
+
+.blok14 {
+  height: 20px;
+  width: 20px;
+  background-image: url(image/mail.png); }
+
+.blok15 {
+  height: 20px;
+  width: 92px;
+  border-radius: 7px;
+  background-color: red; }
+
+.blok15 a {
+  text-decoration: none;
+  text-align: center;
+  line-height: 22px;
+  font-size: 12px;
+  color: white;
+  margin-left: 10px;
+  -moz-user-select: -moz-none;
+  -o-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  user-select: none; }
+
+.blok16 a {
+  text-decoration: none;
+  text-align: center;
+  line-height: 22px;
+  font-size: 10px;
+  color: #5e5e5e;
+  -moz-user-select: -moz-none;
+  -o-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  user-select: none; }
+
+.blok17 a {
+  text-decoration: none;
+  text-align: center;
+  line-height: 22px;
+  font-size: 10px;
+  color: red;
+  -moz-user-select: -moz-none;
+  -o-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  user-select: none; }
+
+.blok18 {
+  display: inline-block;
+  vertical-align: top;
+  position: relative;
+  margin-top: 5px;
+  margin-left: 220px;
+  height: 20px;
+  width: 83px;
+  border-radius: 7px;
+  background: white; }
+
+.blok18 a {
+  text-align: center;
+  line-height: 22px;
+  font-size: 14px;
+  color: #5e5e5e;
+  margin-left: 5px;
+  -moz-user-select: -moz-none;
+  -o-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  user-select: none; }
+
+.blok19 {
+  display: inline-block;
+  vertical-align: top;
+  position: relative;
+  margin-top: 5px;
+  margin-left: 0px;
+  height: 20px;
+  width: 40px;
+  border-radius: 7px;
+  background: white; }
+
+.blok19 a {
+  text-align: right;
+  line-height: 22px;
+  font-size: 14px;
+  color: red;
+  margin-left: 10px;
+  -moz-user-select: -moz-none;
+  -o-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  user-select: none; }
+
+.blok2 {
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  width: 100%;
+  height: 30px;
+  top: 45px;
+  background-color: white; }
+
+.blok21 {
+  display: flex;
+  height: 20px;
+  width: 150px;
+  border-radius: 9px;
+  border: 1px solid #5e5e5e;
+  font-size: 12px;
+  background-color: white;
+  margin: auto; }
+
+.blok21 a {
+  display: flex;
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 20px;
+  margin: auto;
+  text-decoration: none;
+  color: #5e5e5e;
+  -moz-user-select: -moz-none;
+  -o-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  user-select: none; }
+
+.blok3 {
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  width: 100%;
+  height: 30px;
+  top: 80px;
+  border: 1px solid #5e5e5e;
+  border-radius: 5px;
+  background-color: white; }
+
+.blok31 a {
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 30px;
+  margin: auto 10px;
+  text-decoration: none;
+  color: black;
+  -moz-user-select: -moz-none;
+  -o-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  user-select: none; }
+
+/*# sourceMappingURL=cont1.css.map */

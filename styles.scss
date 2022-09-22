@@ -1,0 +1,39 @@
+@import "reset";
+
+.wrapper {
+  position: relative;
+  width: 1500px;
+  height: 100%;
+  margin: 5px auto;
+  background-color: white; }
+
+@import "cont1"; 
+@import "search";
+@import "cont2"; 
+@import "cont3";
+
+.cont4 {
+  display: inline-flex;
+  vertical-align: top;
+  background-color: yellow;
+  width: 1450px;
+  height: 96px;
+  margin: 10px 25px;
+}
+
+.cont4-1 {
+  background-color: white;
+  width: 900px;
+  height: 96px;
+}
+
+.cont4-2 {
+  background-color: white;
+  width: 600px;
+  height: 96px;
+}
+
+.footer {
+  margin-left: 200px;
+  margin-top: 40px;
+}
